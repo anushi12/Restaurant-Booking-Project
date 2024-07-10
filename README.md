@@ -16,7 +16,7 @@ Welcome to the Restaurant Booking System! This project aims to simplify the proc
 - JavaScript
 - Bootstrap
 
-##Usage
+## Usage
 
 1. Search for Restaurants:
 
